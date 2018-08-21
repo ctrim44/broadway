@@ -31,3 +31,19 @@ nav a {
 .header {
 	background-image: url("../images/the-flatiron-building.png");
 }
+
+.designed {
+	background-image: url("../images/the-flatiron-building.png");
+	color: white;
+}
+
+.footer {
+	text-align: left;
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+}
+
+.footer a {
+	color: white;
+}
